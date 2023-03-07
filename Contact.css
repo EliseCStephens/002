@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #A28A83;
+}
+
+a {
+	color: #FFFFFF;
+	display:block;
+	padding: 25px;
+}
+
+ul {
+ list-style-type: none;
+}
+
+li {
+	float: left;
+}
+
+img {
+	float:left;
+	padding:10px;
+}
